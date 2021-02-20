@@ -31,6 +31,15 @@ MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/
   - [Fireside Chat With Lukasz Langa & Dustin Ingram About Tooling For Python Development](#fireside-chat-with-lukasz-langa--dustin-ingram-about-tooling-for-python-development)
   - [Sparking Creativity in LED Art With CircuitPython](#sparking-creativity-in-led-art-with-circuitpython)
   - [Let's Rethink Debugging](#lets-rethink-debugging)
+    - [Four Types of Errors](#four-types-of-errors)
+    - [History of Debugging](#history-of-debugging)
+    - [Debugging Methods](#debugging-methods)
+      - [Print](#print)
+      - [Logging](#logging)
+      - [Debugger](#debugger)
+    - [Rethink Debugging: Two Pain Points](#rethink-debugging-two-pain-points)
+    - [Novel Approach](#novel-approach)
+    - [DAP (Debug Adapter Protocol)](#dap-debug-adapter-protocol)
 
 ## Core Python Devs On How Covid Has Changed Core Python Development
 
@@ -204,3 +213,74 @@ Very cool walkthrough/demo of working with CircuitPython & LEDs.
 ---
 
 ## Let's Rethink Debugging
+
+laike9m, <https://github.com/laike9m>
+
+### Four Types of Errors
+
+1. Fail to compile
+2. exit abnormally
+3. program can run but gives wrong results
+4. result is correct but program consumes too much resources
+
+Focus on #3.
+
+### History of Debugging
+
+EDSAC
+
+Debuggers in 80's (gdb released in 1986)
+
+### Debugging Methods
+
+- print()
+- logging
+- debugger
+
+#### Print
+
+Print is avaiable out of box, no redundant info, normally won't change behaviour, can answer "has this line been run?"
+
+But, you need to know where to put the print, requires code modification, lacks context, hard to manage output
+
+#### Logging
+
+More configuerable, easy to mange output, richer context (line #'s etc)
+
+More combursome to configure, not always available out of the box
+
+#### Debugger
+
+Powerful, with more features, doesn't require familiarity with code, hlep to find root cause more easily
+
+But depends on certain lib/editor/ide, some learning curve, no way to persist info, performance issue
+
+### Rethink Debugging: Two Pain Points
+
+No tool as easy as print, yet powerful as a debugger
+
+Existing tools only give clues, but don't tell you why something is wrong
+
+### Novel Approach
+
+Who has the information we need for debugging?  The Python Interpreter
+
+Dive into bytecode & Python VM.
+
+Use of settrace to have a callback to get useful debugging info.
+
+Led to Cyberbrain <https://github.com/laike9m/Cyberbrain>
+
+![Cyberbrain in VS Code](pictures/cyberbrain.png)
+
+Gives visual graph of execution with values, so helps to identify where calculations went wrong.
+
+Existing tools are becoming calcified.
+
+### DAP (Debug Adapter Protocol)
+
+Specification to define capabilities of a debugger.
+
+- Other tools Pysnooper, iceCream, Hunter, pytrace - trace function calls, automate process of adding print()
+- birdseye, Thonny - graphical debuggers that can visualize values of expressions
+- Python tutor - web based interactive program visualization
