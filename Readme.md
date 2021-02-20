@@ -71,3 +71,71 @@ Nina hosted, panelists: Guido, Carol, Brett, Mariatta
 * Mar: echo all that.  "Here for the language, staying for the community".  I get asked a lot about how Python is better than other communities, but I don't know, but I stay because of you all.
 
 ---
+
+## Everything You Need To Know About Writing Technical Python Books
+
+* Al Sweigart - Automate the Boring Stuff
+* April Speight - Bite Size Python & soon to be Visual Studio Code for Python
+* Harry Percival - Test Driven Development with Python & Architecture Patterns with Python
+
+<https://www.amazon.com/Bite-Size-Python-Introduction-Programming/dp/1119643813/ref=sr_1_1?crid=2WDSGAPPGANWN&dchild=1&keywords=april+speight&qid=1613845789&sprefix=april+speight%2Caps%2C187&sr=8-1>
+<https://www.goodreads.com/author/show/7033347.Harry_Percival>
+<https://www.goodreads.com/author/show/4079189.Al_Sweigart?from_search=true&from_srp=true>
+
+### How did that Momenet Happen whwn you started writing a book?
+
+* April: had no intention of writing book.  Planend to do YT videos.  Someone saw that & asked if she had interest in writing a book.  Moved YT outline to book outline, and went from there.
+* Harry: Somebody emailed me "hey I'm trying to write this book & you might want to write a chapter", laughed off, but said would like to write a book similar to my blog stuff, and they were welcoming.  Didn't go with them because they were big publisher & wouldn't do CC.  Then looked for different pub and found Oreilly
+* Al: 11 years ago gf was a nanny for boy who wanted to learn to code, but hard to find cohesive tutorial for absolute beginners.  Started tutorial that ballooened into a book online.  Trying to capture magic from old books from when he was a kid (C64 example).  2 others, then went to No Starch to do Automate the Boring Stuff.
+
+### What is the biggest challenge in writing technical books (emphasis on techincal)?
+
+* April: first book assumed no knowledge.  Being able to intro concepts in a way to add in technical concepts becomes challenging.  YT vids & blog posts were a different audience (not children), so that was challenging.  Had kids read book as writing to get feedback.  2nd book, night & day, issues running into scope & what reader does & doesn't know.  It's a learning process.
+* Al: style is to see book is a self contained reference.
+
+### Harry is it outline/scope first?
+
+* Harry: approached 1st book as agile project, here's all the things I want to write about, & prioritize.  Publisher feedback/pushback was helpful to limit scope.  Having people read drafts as you go, just like TDD early feedback allows you to correct course early.
+* Al: my books tend to grow in size.
+
+### Self publish vs publisher?
+
+* Al: 1st 3 books were self published.  Enjoyed having publisher & team of prof editors.  The book is a collaborative team effort.
+* April: humbling thing is editor feedback. Trust the technical editor I chose which helps. Remember feedback isn't to tear you down, but it's there to see you be successful.
+* Harry: you guys are bigger than I am.  I immediately go into lawyer mode when I get feedback ("what do you mean !?!?!")
+
+### Struggles in period from idea to finish, other challenges?
+
+* Al: motiviation is a matter of sticking your head down & doing, some days are better than others.  Main problem: coming up with actual topics for books.  Hard becasue there are so many good resources out now.
+* Harry: helps if you feel there's a need for this book
+* April: how do you stay motived?  I have a contractual agreement!  I like the writing piece, but the contract is enough.
+
+### What are the funnest parts?
+
+* Harry: the legions of adoring fans! (jokingly)  You do make a connection with people.  Seeing people understand a concept, thanks from readers, etc.  Definitely not in it for the money.
+* Al: same.  Reading the 1-star reviews on Amazon.  Some are completely off base, occasionally will point out something legitamate
+* April: 2 most fun things: all the illustrations (I did myself could be creative), coming up with non-generic names to make book more fun (also more culturally sensitive).
+
+### What do you use to put the book together?
+
+* Al: 1st book used text files & html by hand.  Don't do this.  Now with NSP, they have a Word template & use that.
+* April: we use Word, there's an extension you have to use.  Code is copy/pasted from VS Code to there.  Screenshots help.
+* Harry: Oreilly is very different, insteda they have a text markup format (asciidoc).  Similar to markdown.  Have a platform that uses git (so VC on it).
+
+### What can you do to keep a unique voice?
+
+* Harry: I'm a clown, you can tell. Wnated to have humour in the books.  Important to have personality in your books.  You feel a genuine human connection to authors.  You engage with them on an emotional level.  Kent Beck example. Convey that joy of programming because (esp in beginners) early is not joyful.
+* Al: sneak in little puns & jokes.  At same time feel other pull don't want to make so many cultural references (ex: Japanese audience might not pick up on those references).  Need to be plain direct, etc, but balance with humour.
+* April: first book & 2nd book were so different.  Cover allowed to show personality.
+
+### What's your favourite tech book you've tried to model?
+
+* April: fashion books.  Model after people on YT.
+* Al: favourite book, found as an adult: Basic Computer Games (find at <https://www.atariarchives.org/basicgames/>)  Book just listed source to 100 different games in BASIC.  Few games that remember as a kid that were copied from that book.
+* Harry: TDD By Example (Kent Beck).  Wise Poinant Guide to Ruby.
+
+### Last thoughts?
+
+* April: if you think you want to write a book, be realistic about how much bandwidth you have in your life.
+
+---
