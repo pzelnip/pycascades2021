@@ -29,6 +29,8 @@ MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/
     - [What Is Your Favourite Tech Book You Have Tried To Model?](#what-is-your-favourite-tech-book-you-have-tried-to-model)
     - [Last Thoughts?](#last-thoughts)
   - [Fireside Chat With Lukasz Langa & Dustin Ingram About Tooling For Python Development](#fireside-chat-with-lukasz-langa--dustin-ingram-about-tooling-for-python-development)
+  - [Sparking Creativity in LED Art With CircuitPython](#sparking-creativity-in-led-art-with-circuitpython)
+  - [Let's Rethink Debugging](#lets-rethink-debugging)
 
 ## Core Python Devs On How Covid Has Changed Core Python Development
 
@@ -188,3 +190,17 @@ Sloppy programming - write whatever you want, have editor save file & auto-forma
 Static analysis tools - Bandit, mypy
 
 flake8 & pylint
+
+---
+
+## Sparking Creativity in LED Art With CircuitPython
+
+Debra Ansell
+
+<github.com/geekmomprojects/PyCascades2021>
+
+Very cool walkthrough/demo of working with CircuitPython & LEDs.
+
+---
+
+## Let's Rethink Debugging
