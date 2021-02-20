@@ -6,6 +6,30 @@ Schedule: <https://2021.pycascades.com/program/schedule/>
 
 MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/363bd7e2-e465-4262-b272-2079cb5840ca>
 
+- [Pycascades 2021](#pycascades-2021)
+  - [Core Python Devs On How Covid Has Changed Core Python Development](#core-python-devs-on-how-covid-has-changed-core-python-development)
+    - [Has Being At Home Been Less Productive For You For OSS?](#has-being-at-home-been-less-productive-for-you-for-oss)
+    - [Now With Covid, How Have You All Recreated Collaboration Virtually?](#now-with-covid-how-have-you-all-recreated-collaboration-virtually)
+    - [Do You Feel Like Communication Has Been Harder Or Easier With Folks?](#do-you-feel-like-communication-has-been-harder-or-easier-with-folks)
+    - [How Has The Diversity Mentoring Initiative Been Going And Has COVID Made That More Challenging?](#how-has-the-diversity-mentoring-initiative-been-going-and-has-covid-made-that-more-challenging)
+    - [Any New Python Features You Re Excited About?](#any-new-python-features-you-re-excited-about)
+    - [Audience Question: Guido - Any Plans To Integrate Python Further Into Excel?](#audience-question-guido---any-plans-to-integrate-python-further-into-excel)
+    - [Audience Question: How Does The Mentoring Work And When Do You Think A Person Is Ready To Be Mentored?](#audience-question-how-does-the-mentoring-work-and-when-do-you-think-a-person-is-ready-to-be-mentored)
+    - [What Are You Doing To Stay Connected With Community Remotely?](#what-are-you-doing-to-stay-connected-with-community-remotely)
+    - [Wrap-Up: Anything You Would Like To Share?](#wrap-up-anything-you-would-like-to-share)
+  - [Everything You Need To Know About Writing Technical Python Books](#everything-you-need-to-know-about-writing-technical-python-books)
+    - [How Did That Moment Happen When You Started Writing A Book?](#how-did-that-moment-happen-when-you-started-writing-a-book)
+    - [What Is The Biggest Challenge In Writing Technical Books?](#what-is-the-biggest-challenge-in-writing-technical-books)
+    - [Is It Outline/Scope First?](#is-it-outlinescope-first)
+    - [Self Publish Vs Publisher?](#self-publish-vs-publisher)
+    - [Struggles From Idea To Finish, Any Other Challenges?](#struggles-from-idea-to-finish-any-other-challenges)
+    - [What Are The Funnest Parts?](#what-are-the-funnest-parts)
+    - [What Do You Use To Put The Book Together?](#what-do-you-use-to-put-the-book-together)
+    - [What Can You Do To Keep A Unique Voice?](#what-can-you-do-to-keep-a-unique-voice)
+    - [What Is Your Favourite Tech Book You Have Tried To Model?](#what-is-your-favourite-tech-book-you-have-tried-to-model)
+    - [Last Thoughts?](#last-thoughts)
+  - [Fireside Chat With Lukasz Langa & Dustin Ingram About Tooling For Python Development](#fireside-chat-with-lukasz-langa--dustin-ingram-about-tooling-for-python-development)
+
 ## Core Python Devs On How Covid Has Changed Core Python Development
 
 Nina hosted, panelists: Guido, Carol, Brett, Mariatta
