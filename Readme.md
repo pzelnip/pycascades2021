@@ -41,6 +41,7 @@ MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/
     - [Novel Approach](#novel-approach)
     - [DAP (Debug Adapter Protocol)](#dap-debug-adapter-protocol)
   - [Making Games With PPB](#making-games-with-ppb)
+  - [Introducing the FARM Stack: FastAPI, React, and MongoDB](#introducing-the-farm-stack-fastapi-react-and-mongodb)
 
 ## Core Python Devs On How Covid Has Changed Core Python Development
 
@@ -288,6 +289,7 @@ Specification to define capabilities of a debugger.
 - birdseye, Thonny - graphical debuggers that can visualize values of expressions
 - Python tutor - web based interactive program visualization
 
+---
 ## Making Games With PPB
 
 Piper Thunstrom
@@ -297,3 +299,16 @@ Technical difficulties, screen went green
 PPB PursuedPyBear <https://ppb.dev/>.  Showed demo of how to build up a simple game with library.
 
 Had to leave talk early to go to the MEAN talk.
+
+---
+
+## Introducing the FARM Stack: FastAPI, React, and MongoDB
+
+Aaron Bassett
+
+- <https://github.com/aaronbassett/FARM-starter>
+- <https://git.io/JtShS>
+
+FastAPI, Mongodb with Motor, React
+
+Walked through creation of a TODO app using this stack.
