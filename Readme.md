@@ -40,6 +40,7 @@ MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/
     - [Rethink Debugging: Two Pain Points](#rethink-debugging-two-pain-points)
     - [Novel Approach](#novel-approach)
     - [DAP (Debug Adapter Protocol)](#dap-debug-adapter-protocol)
+  - [Making Games With PPB](#making-games-with-ppb)
 
 ## Core Python Devs On How Covid Has Changed Core Python Development
 
@@ -200,6 +201,8 @@ Static analysis tools - Bandit, mypy
 
 flake8 & pylint
 
+Kate McLaughlin's notes of talk: <https://glasnt.com/blog/pycascades-packaging>
+
 ---
 
 ## Sparking Creativity in LED Art With CircuitPython
@@ -284,3 +287,13 @@ Specification to define capabilities of a debugger.
 - Other tools Pysnooper, iceCream, Hunter, pytrace - trace function calls, automate process of adding print()
 - birdseye, Thonny - graphical debuggers that can visualize values of expressions
 - Python tutor - web based interactive program visualization
+
+## Making Games With PPB
+
+Piper Thunstrom
+
+Technical difficulties, screen went green
+
+PPB PursuedPyBear <https://ppb.dev/>.  Showed demo of how to build up a simple game with library.
+
+Had to leave talk early to go to the MEAN talk.
