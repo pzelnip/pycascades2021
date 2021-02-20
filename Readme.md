@@ -138,4 +138,25 @@ Nina hosted, panelists: Guido, Carol, Brett, Mariatta
 
 * April: if you think you want to write a book, be realistic about how much bandwidth you have in your life.
 
+Their books:
+
+* <www.obeythetestinggoat.com>
+* <www.cosmicpython.com>
+* <www.inventwithpython.com>
+* <www.buildandcode.com>
+
 ---
+
+## Fireside Chat with Lukasz Langa & Dustin Ingram About Tooling For Python Development
+
+Weird lengthy discussion about some CVE in Python?
+
+Luk: What's your favourite tool for packaging?
+Dustin: pretty "barebones".  piptools has pip-compile & is useful.  Looks a little bit like a lockfile.  Black is cool too, what started the process for developing it.
+Luk: in 2015 I had contributed to yapf, plan was to rollout to Facebook, but not an easy task (20m+ lines of code).  ....long historical discussion ....
+
+Sloppy programming - write whatever you want, have editor save file & auto-format with Black.
+
+Static analysis tools - Bandit, mypy
+
+flake8 & pylint
