@@ -318,7 +318,7 @@ Kate McLaughlin's notes of talk: <https://glasnt.com/blog/pycascades-packaging>
 
 Debra Ansell
 
-<github.com/geekmomprojects/PyCascades2021>
+<https://github.com/geekmomprojects/PyCascades2021>
 
 Very cool walkthrough/demo of working with CircuitPython & LEDs.
 
