@@ -43,6 +43,25 @@ MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/
   - [Making Games With PPB](#making-games-with-ppb)
   - [Introducing the FARM Stack: FastAPI, React, and MongoDB](#introducing-the-farm-stack-fastapi-react-and-mongodb)
   - [Unit Testing Jupyter Notebooks - testbook](#unit-testing-jupyter-notebooks---testbook)
+  - [All About Podcasting: By the Hosts Of Talk Python to Me, Test & Code](#all-about-podcasting-by-the-hosts-of-talk-python-to-me-test--code)
+    - [How did you get your starts in podcasting?](#how-did-you-get-your-starts-in-podcasting)
+    - [BRian when was T&C inception?](#brian-when-was-tc-inception)
+    - [When you started out how do you find guests?](#when-you-started-out-how-do-you-find-guests)
+    - [Which episodes stand out to you?](#which-episodes-stand-out-to-you)
+    - [How would you suggest go about finding Sponsors?](#how-would-you-suggest-go-about-finding-sponsors)
+    - [How has the last year & COVID changed podcasting for you?](#how-has-the-last-year--covid-changed-podcasting-for-you)
+    - [How is livestreaming going?](#how-is-livestreaming-going)
+    - [What is the bare minimum essentials for gear?](#what-is-the-bare-minimum-essentials-for-gear)
+    - [On the Software Side, What sort of Software tools would you recommend?](#on-the-software-side-what-sort-of-software-tools-would-you-recommend)
+    - [How long is the time committment for you?](#how-long-is-the-time-committment-for-you)
+    - [How do you get connected to publishing platforms?](#how-do-you-get-connected-to-publishing-platforms)
+    - [Have you noticed any changes in listerers or habits since COVID?](#have-you-noticed-any-changes-in-listerers-or-habits-since-covid)
+    - [How much do you prep your guests?](#how-much-do-you-prep-your-guests)
+    - [What is your weird podcasting tip?](#what-is-your-weird-podcasting-tip)
+    - [How Do you Do Podcast Analytics when there are so many platforms?](#how-do-you-do-podcast-analytics-when-there-are-so-many-platforms)
+    - [What Podcast App DO you reocmmend for listening?](#what-podcast-app-do-you-reocmmend-for-listening)
+  - [Closing Remarks](#closing-remarks)
+  - [Misc Links](#misc-links)
 
 ## Core Python Devs On How Covid Has Changed Core Python Development
 
@@ -412,3 +431,166 @@ Rohit Sanjay & Matthew Seal
 Testbook: <https://github.com/nteract/testbook>
 
 Testbook is a unit testing framework for testing code in notebooks. Pytest style tests for notebooks in separate .py files.
+
+---
+
+## All About Podcasting: By the Hosts Of Talk Python to Me, Test & Code
+
+Brian Okken & Mike Kennedy
+
+### How did you get your starts in podcasting?
+
+- Brian: had a fear of public speaking, and podcasting was a way to tackle it.
+- Mike: been a fan of podcasts for a long time, switched to Python from other
+  stuff he was doing, and wanted to get into the ecosystem.  Where are the
+  podcasts?  At the time there were none.  So started and it took off rom there
+
+### BRian when was T&C inception?
+
+- Brian: was before Python Bytes with Mike.  Was writing about testing in Python
+  for a few years, had a short book, etc.  Really wanted to interact with
+  people, but blog posts didn't have that give & take.  Early scripted podcast
+  episodes, was super nervous.  About 6 months in, Mike approached with the idea
+  of Python Bytes.  Helped to have two people, keeps you accountable.
+
+### When you started out how do you find guests?
+
+- Mike: had first 5 episodes figured out (5 friends).  Just have to be curious &
+  ask good questions.  In the beginning was hard.
+- Brian: in beginning was blown away, didn't know anyobody in python ocmmunity.
+  Early in T&C interviewed people with testing voices (not necessarily Python),
+  found them by just emailing and just asking.
+
+### Which episodes stand out to you?
+
+- Mike: Like picking favourite child.  Had convos with people who would never
+  come up on radar on Talk Python and were blown away by what those people had
+  accomplished.  Ex: the F1 wind tunnel optimization
+- Brian: kind of a mix.  David Hussman episode was one where worked hard to get
+  him on, instrumental in chaos engineering.  Was on in 2017 & passed away in
+  2018 so honorable.  Random surprises: AB testing at Comcast example.  Can be
+  hard to come up with questions ahead of time for people who are in domains
+  that am unfamiliar with.
+
+### How would you suggest go about finding Sponsors?
+
+- Brian: I reached out to a few people, but have had a few sponsors reach out
+  recently, but early on was all self-initiated.  Really tough at the beginning.
+- Mike: after 3 months had some ads, from people who reached out.  Now I reach
+  out, about 1/3rd are from me reaching out, 2/3rds from people contacting me.
+  In early days, think about what websites that have ads for products that my
+  listeners go to, and target them.
+
+### How has the last year & COVID changed podcasting for you?
+
+- Brian: incredibly easier.  Before pandemic I was working 3 miles from home,
+  just do it at lunch.  Then company moved & was hour away, so had to negotiate
+  when to do at the office.  But now since at home is totally easier because
+  always working from home.
+- Mike: have been working from home for some time, and also self-employed.
+- Brian: guests are better because everybody has audio equipment at home now.
+- Mike: more scheduling coordination because of kids being around.  People are
+  getting better at being presentable.
+- Brian: Python bytes have guests & livestreaming now, now people are okay with
+  that since they're Zoom-ing half the day anywyay.
+
+### How is livestreaming going?
+
+- Brian: I'm enjoying it.
+- Mike: I'm enjoying too, but it's a trade-off, less focus on conversation with
+  more coordination.  But valauable to have people ask questions in real time.
+- Brian: and we're getting better at it.  Mike had the idea, before we just
+  recorded our heads, with 3 people it's better.  Lately its been more about
+  showing the website or tool while in the livestream.  Realized early on mike
+  was doing all the work, but that became difficult/too much for one, now that's
+  more shared.
+
+### What is the bare minimum essentials for gear?
+
+- Brian: absolute minimum is just headphones.  Next step up is a mic, ATR-2100
+  is a great one.
+- Mike: yeah mic is important and you can record anything with free software
+  (ex: audacity).  Having the mic close to you helps a lot.  Dynamic mic over
+  condensing mic.
+- host: what's the difference?
+- Mike: not sure of the physics.  Dynamic gets faded as you move away (so less
+  background noise).
+- Brian: one mistake is people have a mic on a fixed stand on a table, any desk
+  noise will transfer.  Arm stand's help.
+- Host: do you have any non-mechanical keyboards?
+- Mike: No, we dont' type that much, because of directional mic really kills it.
+
+### On the Software Side, What sort of Software tools would you recommend?
+
+- Mike: in the beginning there's two aspects - recording & editing.  Used Skype
+  Ecam recorder, really important to be multitrack though.  Editing with
+  Audacity, producing with Garageband, now Adobe Audition.
+- Brian: used Audacity for a long time. Free but hard to use.  Upgraded my Mac
+  and Audacity wasn't great at that time so switched to Logic Pro.  Occasionally
+  if I need to level 2 tracks, auphonic website.  Hindenberg application.  For
+  recording: trying to get away from Skype, but few web services that will
+  record both ends.
+- Mike: for livestream used Streamyard
+
+### How long is the time committment for you?
+
+- Brian: python bytes at frist was a lot of time.  Now we have people recommend
+  stuff.  Not hard to find things, just hard to find good things.  2 hours of
+  researching, then record for half hour hour or so.  T&C was spending 10 hours
+  a week for 1 hour of audio, now about 3-4 hours for 1 hour.
+- Mike: Talk Python is probably 10-15 hours per episode.
+
+### How do you get connected to publishing platforms?
+
+- Mike: Python.  Both podcasts use the same framework we created.  Once you
+  register in iTunes, and then all others follow.
+- Brian: When we started out there wasn't a lot which is part of why Mike built
+  his own, but would not recommend.  I started on Wordpress with some Wordpress
+  plugins & audio on libsyn.  Fireside was started, and is great.
+
+### Have you noticed any changes in listerers or habits since COVID?
+
+- Mike: yes, absolutely.  First month when COVID hit, podcast listening was down
+  20%.  I think it's starting to come back.
+- Brian: my own listening habits, when COVID hit I stopped listening to
+  podcasts, that's changed.  Now more selective, and do at different times
+  (going to gorcery store or yardwork).  About 20% drop for my podcast as well,
+  gradually re-climbing.  Also seen differences in lenght,I'm trying to do
+  shorter episodes, hour is too long.
+
+### How much do you prep your guests?
+
+- Brian: it varies.  I've been doing more, givine a person an outline, for some people that helps them relax.
+- Mike: I come up with a doc & share with the guests, ask could you feel like what would be interesting at these points.
+- host: do you find you have to reel yourself in?
+- Mike: not really but sometimes people are nervous, so sometimes I chat for a bit for recording.
+- Brian: yeah same, will chat for a bit then say "okay we're going to start now".
+
+### What is your weird podcasting tip?
+
+- Mike: 1 the mic should be very close.  2 (non obvious) rigid chair, not a
+  fancy, adjustable, squeaky chair.
+- Brian: 1 tip I want to give is mic placement.  Should be placed facing your
+  mouth but moth should not be facing the mic (30 degree off-axis).
+
+### How Do you Do Podcast Analytics when there are so many platforms?
+
+- Mike: all stuff comes back to our server (except Google), so we can track pretty carefully.
+- Brian: Fireside does all the metrics for me & breaks out different providers, etc.
+
+### What Podcast App DO you reocmmend for listening?
+
+- Brian: the orange one
+- Mike: Overcast.
+
+---
+
+## Closing Remarks
+
+Nina & Seb.
+
+---
+
+## Misc Links
+
+- One person's notes: <https://gist.github.com/foosel/8f7d34bea233d10b364f6628e2fdc5b1>
