@@ -7,9 +7,9 @@ Schedule: <https://2021.pycascades.com/program/schedule/>
 MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/363bd7e2-e465-4262-b272-2079cb5840ca>
 
 - [Pycascades 2021](#pycascades-2021)
-  - [Core Python Devs On How Covid Has Changed Core Python Development](#core-python-devs-on-how-covid-has-changed-core-python-development)
+  - [Core Python Devs On How COVID Has Changed Core Python Development](#core-python-devs-on-how-covid-has-changed-core-python-development)
     - [Has Being At Home Been Less Productive For You For OSS?](#has-being-at-home-been-less-productive-for-you-for-oss)
-    - [Now With Covid, How Have You All Recreated Collaboration Virtually?](#now-with-covid-how-have-you-all-recreated-collaboration-virtually)
+    - [Now With COVID, How Have You All Recreated Collaboration Virtually?](#now-with-covid-how-have-you-all-recreated-collaboration-virtually)
     - [Do You Feel Like Communication Has Been Harder Or Easier With Folks?](#do-you-feel-like-communication-has-been-harder-or-easier-with-folks)
     - [How Has The Diversity Mentoring Initiative Been Going And Has COVID Made That More Challenging?](#how-has-the-diversity-mentoring-initiative-been-going-and-has-covid-made-that-more-challenging)
     - [Any New Python Features You Re Excited About?](#any-new-python-features-you-re-excited-about)
@@ -44,26 +44,26 @@ MS Cloud skills challenge: <https://www.microsoft.com/en-us/learncloudchallenge/
   - [Introducing the FARM Stack: FastAPI, React, and MongoDB](#introducing-the-farm-stack-fastapi-react-and-mongodb)
   - [Unit Testing Jupyter Notebooks - testbook](#unit-testing-jupyter-notebooks---testbook)
   - [All About Podcasting: By the Hosts Of Talk Python to Me, Test & Code](#all-about-podcasting-by-the-hosts-of-talk-python-to-me-test--code)
-    - [How did you get your starts in podcasting?](#how-did-you-get-your-starts-in-podcasting)
-    - [BRian when was T&C inception?](#brian-when-was-tc-inception)
-    - [When you started out how do you find guests?](#when-you-started-out-how-do-you-find-guests)
-    - [Which episodes stand out to you?](#which-episodes-stand-out-to-you)
-    - [How would you suggest go about finding Sponsors?](#how-would-you-suggest-go-about-finding-sponsors)
-    - [How has the last year & COVID changed podcasting for you?](#how-has-the-last-year--covid-changed-podcasting-for-you)
-    - [How is livestreaming going?](#how-is-livestreaming-going)
-    - [What is the bare minimum essentials for gear?](#what-is-the-bare-minimum-essentials-for-gear)
-    - [On the Software Side, What sort of Software tools would you recommend?](#on-the-software-side-what-sort-of-software-tools-would-you-recommend)
-    - [How long is the time committment for you?](#how-long-is-the-time-committment-for-you)
-    - [How do you get connected to publishing platforms?](#how-do-you-get-connected-to-publishing-platforms)
-    - [Have you noticed any changes in listerers or habits since COVID?](#have-you-noticed-any-changes-in-listerers-or-habits-since-covid)
-    - [How much do you prep your guests?](#how-much-do-you-prep-your-guests)
-    - [What is your weird podcasting tip?](#what-is-your-weird-podcasting-tip)
-    - [How Do you Do Podcast Analytics when there are so many platforms?](#how-do-you-do-podcast-analytics-when-there-are-so-many-platforms)
-    - [What Podcast App DO you reocmmend for listening?](#what-podcast-app-do-you-reocmmend-for-listening)
+    - [How Did You Get Your Starts In Podcasting?](#how-did-you-get-your-starts-in-podcasting)
+    - [Brian When Was The Test & Code Inception?](#brian-when-was-the-test--code-inception)
+    - [When You Started Out How Do You Find Guests?](#when-you-started-out-how-do-you-find-guests)
+    - [Which Episodes Stand Out To You?](#which-episodes-stand-out-to-you)
+    - [HowWould You Suggest Go About Finding Sponsors?](#howwould-you-suggest-go-about-finding-sponsors)
+    - [How Has The Last Year & COVID Changed Podcasting For You?](#how-has-the-last-year--covid-changed-podcasting-for-you)
+    - [How Is Livestreaming Going With Python Bytes?](#how-is-livestreaming-going-with-python-bytes)
+    - [WhatIs The Bare Minimum Essentials For Gear?](#whatis-the-bare-minimum-essentials-for-gear)
+    - [On The Software Side What Sort Of Software Tools Would You Recommend?](#on-the-software-side-what-sort-of-software-tools-would-you-recommend)
+    - [How Long Is The Time Commitment For You?](#how-long-is-the-time-commitment-for-you)
+    - [How Do You Get Connected To Publishing Platforms?](#how-do-you-get-connected-to-publishing-platforms)
+    - [Have You Noticed Any Changes In Listerers Or Habits Since COVID?](#have-you-noticed-any-changes-in-listerers-or-habits-since-covid)
+    - [How Much Do You Prep Your Guests?](#how-much-do-you-prep-your-guests)
+    - [What Is Your Weird Podcasting Tip?](#what-is-your-weird-podcasting-tip)
+    - [How Do You Do Podcast Analytics When There Are So Many Platforms?](#how-do-you-do-podcast-analytics-when-there-are-so-many-platforms)
+    - [What Podcast App Do You Recommend For Listening?](#what-podcast-app-do-you-recommend-for-listening)
   - [Closing Remarks](#closing-remarks)
   - [Misc Links](#misc-links)
 
-## Core Python Devs On How Covid Has Changed Core Python Development
+## Core Python Devs On How COVID Has Changed Core Python Development
 
 Nina Zakharenko hosted, panelists: Guido Van Rossum, Carol Willing, Brett Cannon, Mariatta Wijaya
 
@@ -73,12 +73,12 @@ Nina Zakharenko hosted, panelists: Guido Van Rossum, Carol Willing, Brett Cannon
 - Mariatta: same for her, already working from home. 2 kids who didn't go to
   school for awhile, hard to juggle competing priorities.
 - Carol: definitely less productive. Emotional toll.
-- Guido: was tehcnically not working when COVID hit.  Kept active for awhile,
+- Guido: was technically not working when COVID hit.  Kept active for awhile,
   then parks were shut down, etc, then things changed.  Pattern matching PEP
   review process was frustrating/drawn out.  Ultimately left retirement & went
   to MS.
 
-### Now With Covid, How Have You All Recreated Collaboration Virtually?
+### Now With COVID, How Have You All Recreated Collaboration Virtually?
 
 - Mariatta: Python Language Summit, had to cancel in-person, last minute decided
   to do virtual.  Planned in very short time.  Virtual sprint in Oct, # of PRs
@@ -87,9 +87,9 @@ Nina Zakharenko hosted, panelists: Guido Van Rossum, Carol Willing, Brett Cannon
   still full of distractions (family in background, etc).  Different people
   dominate conversations, etc.  Lots of positive things, but at end of the day
   is very different (in person rejuvenates you, etc, no immersion).
-- Carol: productive in a different way, convos were focussed differently
-- Brett: less organic conversations, no 24/7 imemersion, no accidental
-  overhearing of convos that you join in
+- Carol: productive in a different way, conversations were focussed differently
+- Brett: less organic conversations, no 24/7 immersion, no accidental
+  overhearing of conversations that you join in
 
 ### Do You Feel Like Communication Has Been Harder Or Easier With Folks?
 
@@ -127,14 +127,14 @@ Nina Zakharenko hosted, panelists: Guido Van Rossum, Carol Willing, Brett Cannon
 
 (everybody laughed)
 
-- Guido: the formula language will never be rplaced with Python.  That's been
+- Guido: the formula language will never be replaced with Python.  That's been
   looked at, but not feasible (too confusing).  Where he sees openings: maybe
   extensions that run in the cloud particularly on mobile.  The ideas are with
   the Excel team
 
 ### Audience Question: How Does The Mentoring Work And When Do You Think A Person Is Ready To Be Mentored?
 
-- Carol: it starts whenever you take the initiative you wish to contirbute to
+- Carol: it starts whenever you take the initiative you wish to contribute to
   core python.  Separate contributing to core is different than being a core
   dev.  Having basic skills like using Git & Github should be fostered first.
 - Mariatta: in general (in any OS project), its rare that you would have a
@@ -196,7 +196,7 @@ Author links:
   Oreilly
 - Al: 11 years ago gf was a nanny for boy who wanted to learn to code, but hard
   to find cohesive tutorial for absolute beginners.  Started tutorial that
-  ballooened into a book online.  Trying to capture magic from old books from
+  ballooned into a book online.  Trying to capture magic from old books from
   when he was a kid (C64 example).  2 others, then went to No Starch to do
   Automate the Boring Stuff.
 
@@ -205,10 +205,10 @@ Author links:
 (Emphasis On Technical)
 
 - April: first book assumed no knowledge.  Being able to intro concepts in a way
-  to add in technical concepts becomes challenging.  YT vids & blog posts were a
-  different audience (not children), so that was challenging.  Had kids read
-  book as writing to get feedback.  2nd book, night & day, issues running into
-  scope & what reader does & doesn't know.  It's a learning process.
+  to add in technical concepts becomes challenging.  YouTube videos & blog posts
+  were a different audience (not children), so that was challenging.  Had kids
+  read book as writing to get feedback.  2nd book, night & day, issues running
+  into scope & what reader does & doesn't know.  It's a learning process.
 - Al: style is to see book is a self contained reference.
 
 ### Is It Outline/Scope First?
@@ -231,9 +231,9 @@ Author links:
 
 ### Struggles From Idea To Finish, Any Other Challenges?
 
-- Al: motiviation is a matter of sticking your head down & doing, some days are
+- Al: motivation is a matter of sticking your head down & doing, some days are
   better than others.  Main problem: coming up with actual topics for books.
-  Hard becasue there are so many good resources out now.
+  Hard because there are so many good resources out now.
 - Harry: helps if you feel there's a need for this book
 - April: how do you stay motived?  I have a contractual agreement!  I like the
   writing piece, but the contract is enough.
@@ -244,7 +244,7 @@ Author links:
   people.  Seeing people understand a concept, thanks from readers, etc.
   Definitely not in it for the money.
 - Al: same.  Reading the 1-star reviews on Amazon.  Some are completely off
-  base, occasionally will point out something legitamate
+  base, occasionally will point out something legitimate
 - April: 2 most fun things: all the illustrations (I did myself could be
   creative), coming up with non-generic names to make book more fun (also more
   culturally sensitive).
@@ -255,13 +255,13 @@ Author links:
   they have a Word template & use that.
 - April: we use Word, there's an extension you have to use.  Code is copy/pasted
   from VS Code to there.  Screenshots help.
-- Harry: Oreilly is very different, insteda they have a text markup format
+- Harry: Oreilly is very different, instead they have a text markup format
   (asciidoc).  Similar to markdown.  Have a platform that uses git (so VC on
   it).
 
 ### What Can You Do To Keep A Unique Voice?
 
-- Harry: I'm a clown, you can tell. Wnated to have humour in the books.
+- Harry: I'm a clown, you can tell. Wanted to have humour in the books.
   Important to have personality in your books.  You feel a genuine human
   connection to authors.  You engage with them on an emotional level.  Kent Beck
   example. Convey that joy of programming because (esp in beginners) early is
@@ -351,21 +351,25 @@ Debuggers in 80's (gdb released in 1986)
 
 #### Print
 
-Print is avaiable out of box, no redundant info, normally won't change behaviour, can answer "has this line been run?"
+Print is available out of box, no redundant info, normally won't change
+behaviour, can answer "has this line been run?"
 
-But, you need to know where to put the print, requires code modification, lacks context, hard to manage output
+But, you need to know where to put the print, requires code modification, lacks
+context, hard to manage output
 
 #### Logging
 
-More configuerable, easy to mange output, richer context (line #'s etc)
+More configurable, easy to mange output, richer context (line #'s etc)
 
 More combursome to configure, not always available out of the box
 
 #### Debugger
 
-Powerful, with more features, doesn't require familiarity with code, hlep to find root cause more easily
+Powerful, with more features, doesn't require familiarity with code, help to
+find root cause more easily
 
-But depends on certain lib/editor/ide, some learning curve, no way to persist info, performance issue
+But depends on certain lib/editor/ide, some learning curve, no way to persist
+info, performance issue
 
 ### Rethink Debugging: Two Pain Points
 
@@ -385,7 +389,8 @@ Led to Cyberbrain <https://github.com/laike9m/Cyberbrain>
 
 ![Cyberbrain in VS Code](pictures/cyberbrain.png)
 
-Gives visual graph of execution with values, so helps to identify where calculations went wrong.
+Gives visual graph of execution with values, so helps to identify where
+calculations went wrong.
 
 Existing tools are becoming calcified.
 
@@ -393,8 +398,10 @@ Existing tools are becoming calcified.
 
 Specification to define capabilities of a debugger.
 
-- Other tools Pysnooper, iceCream, Hunter, pytrace - trace function calls, automate process of adding print()
-- birdseye, Thonny - graphical debuggers that can visualize values of expressions
+- Other tools Pysnooper, iceCream, Hunter, pytrace - trace function calls,
+  automate process of adding print()
+- birdseye, Thonny - graphical debuggers that can visualize values of
+  expressions
 - Python tutor - web based interactive program visualization
 
 ---
@@ -405,7 +412,8 @@ Piper Thunstrom
 
 Technical difficulties, screen went green
 
-PPB PursuedPyBear <https://ppb.dev/>.  Showed demo of how to build up a simple game with library.
+PPB PursuedPyBear <https://ppb.dev/>.  Showed demo of how to build up a simple
+game with library.
 
 Had to leave talk early to go to the MEAN talk.
 
@@ -430,7 +438,8 @@ Rohit Sanjay & Matthew Seal
 
 Testbook: <https://github.com/nteract/testbook>
 
-Testbook is a unit testing framework for testing code in notebooks. Pytest style tests for notebooks in separate .py files.
+Testbook is a unit testing framework for testing code in notebooks. Pytest style
+tests for notebooks in separate .py files.
 
 ---
 
@@ -438,14 +447,14 @@ Testbook is a unit testing framework for testing code in notebooks. Pytest style
 
 Brian Okken & Mike Kennedy
 
-### How did you get your starts in podcasting?
+### How Did You Get Your Starts In Podcasting?
 
 - Brian: had a fear of public speaking, and podcasting was a way to tackle it.
-- Mike: been a fan of podcasts for a long time, switched to Python from other
+- Michael: been a fan of podcasts for a long time, switched to Python from other
   stuff he was doing, and wanted to get into the ecosystem.  Where are the
   podcasts?  At the time there were none.  So started and it took off rom there
 
-### BRian when was T&C inception?
+### Brian When Was The Test & Code Inception?
 
 - Brian: was before Python Bytes with Mike.  Was writing about testing in Python
   for a few years, had a short book, etc.  Really wanted to interact with
@@ -453,17 +462,17 @@ Brian Okken & Mike Kennedy
   episodes, was super nervous.  About 6 months in, Mike approached with the idea
   of Python Bytes.  Helped to have two people, keeps you accountable.
 
-### When you started out how do you find guests?
+### When You Started Out How Do You Find Guests?
 
-- Mike: had first 5 episodes figured out (5 friends).  Just have to be curious &
+- Michael: had first 5 episodes figured out (5 friends).  Just have to be curious &
   ask good questions.  In the beginning was hard.
-- Brian: in beginning was blown away, didn't know anyobody in python ocmmunity.
+- Brian: in beginning was blown away, didn't know anybody in python community.
   Early in T&C interviewed people with testing voices (not necessarily Python),
   found them by just emailing and just asking.
 
-### Which episodes stand out to you?
+### Which Episodes Stand Out To You?
 
-- Mike: Like picking favourite child.  Had convos with people who would never
+- Michael: Like picking favourite child.  Had conversations with people who would never
   come up on radar on Talk Python and were blown away by what those people had
   accomplished.  Ex: the F1 wind tunnel optimization
 - Brian: kind of a mix.  David Hussman episode was one where worked hard to get
@@ -472,57 +481,57 @@ Brian Okken & Mike Kennedy
   hard to come up with questions ahead of time for people who are in domains
   that am unfamiliar with.
 
-### How would you suggest go about finding Sponsors?
+### HowWould You Suggest Go About Finding Sponsors?
 
 - Brian: I reached out to a few people, but have had a few sponsors reach out
   recently, but early on was all self-initiated.  Really tough at the beginning.
-- Mike: after 3 months had some ads, from people who reached out.  Now I reach
+- Michael: after 3 months had some ads, from people who reached out.  Now I reach
   out, about 1/3rd are from me reaching out, 2/3rds from people contacting me.
   In early days, think about what websites that have ads for products that my
   listeners go to, and target them.
 
-### How has the last year & COVID changed podcasting for you?
+### How Has The Last Year & COVID Changed Podcasting For You?
 
 - Brian: incredibly easier.  Before pandemic I was working 3 miles from home,
   just do it at lunch.  Then company moved & was hour away, so had to negotiate
   when to do at the office.  But now since at home is totally easier because
   always working from home.
-- Mike: have been working from home for some time, and also self-employed.
+- Michael: have been working from home for some time, and also self-employed.
 - Brian: guests are better because everybody has audio equipment at home now.
-- Mike: more scheduling coordination because of kids being around.  People are
+- Michael: more scheduling coordination because of kids being around.  People are
   getting better at being presentable.
 - Brian: Python bytes have guests & livestreaming now, now people are okay with
-  that since they're Zoom-ing half the day anywyay.
+  that since they're Zoom-ing half the day anyway.
 
-### How is livestreaming going?
+### How Is Livestreaming Going With Python Bytes?
 
 - Brian: I'm enjoying it.
-- Mike: I'm enjoying too, but it's a trade-off, less focus on conversation with
-  more coordination.  But valauable to have people ask questions in real time.
+- Michael: I'm enjoying too, but it's a trade-off, less focus on conversation with
+  more coordination.  But valuable to have people ask questions in real time.
 - Brian: and we're getting better at it.  Mike had the idea, before we just
   recorded our heads, with 3 people it's better.  Lately its been more about
   showing the website or tool while in the livestream.  Realized early on mike
   was doing all the work, but that became difficult/too much for one, now that's
   more shared.
 
-### What is the bare minimum essentials for gear?
+### WhatIs The Bare Minimum Essentials For Gear?
 
 - Brian: absolute minimum is just headphones.  Next step up is a mic, ATR-2100
   is a great one.
-- Mike: yeah mic is important and you can record anything with free software
+- Michael: yeah mic is important and you can record anything with free software
   (ex: audacity).  Having the mic close to you helps a lot.  Dynamic mic over
   condensing mic.
 - host: what's the difference?
-- Mike: not sure of the physics.  Dynamic gets faded as you move away (so less
+- Michael: not sure of the physics.  Dynamic gets faded as you move away (so less
   background noise).
 - Brian: one mistake is people have a mic on a fixed stand on a table, any desk
-  noise will transfer.  Arm stand's help.
+  noise will transfer.  Arm stands help.
 - Host: do you have any non-mechanical keyboards?
-- Mike: No, we dont' type that much, because of directional mic really kills it.
+- Michael: No, we don't type that much, because of directional mic really kills it.
 
-### On the Software Side, What sort of Software tools would you recommend?
+### On The Software Side What Sort Of Software Tools Would You Recommend?
 
-- Mike: in the beginning there's two aspects - recording & editing.  Used Skype
+- Michael: in the beginning there's two aspects - recording & editing.  Used Skype
   Ecam recorder, really important to be multitrack though.  Editing with
   Audacity, producing with Garageband, now Adobe Audition.
 - Brian: used Audacity for a long time. Free but hard to use.  Upgraded my Mac
@@ -530,58 +539,65 @@ Brian Okken & Mike Kennedy
   if I need to level 2 tracks, auphonic website.  Hindenberg application.  For
   recording: trying to get away from Skype, but few web services that will
   record both ends.
-- Mike: for livestream used Streamyard
+- Michael: for livestream used Streamyard
 
-### How long is the time committment for you?
+### How Long Is The Time Commitment For You?
 
-- Brian: python bytes at frist was a lot of time.  Now we have people recommend
+- Brian: Python Bytes at first was a lot of time.  Now we have people recommend
   stuff.  Not hard to find things, just hard to find good things.  2 hours of
-  researching, then record for half hour hour or so.  T&C was spending 10 hours
-  a week for 1 hour of audio, now about 3-4 hours for 1 hour.
-- Mike: Talk Python is probably 10-15 hours per episode.
+  researching, then record for half hour hour or so.  Test & Code was spending
+  10 hours a week for 1 hour of audio, now about 3-4 hours for 1 hour of podcast.
+- Michael: Talk Python is probably 10-15 hours per episode.
 
-### How do you get connected to publishing platforms?
+### How Do You Get Connected To Publishing Platforms?
 
-- Mike: Python.  Both podcasts use the same framework we created.  Once you
-  register in iTunes, and then all others follow.
+- Michael: Python.  Both podcasts use the same framework we created.  As for
+  specific distribution platforms once you register in iTunes all others follow.
 - Brian: When we started out there wasn't a lot which is part of why Mike built
   his own, but would not recommend.  I started on Wordpress with some Wordpress
   plugins & audio on libsyn.  Fireside was started, and is great.
 
-### Have you noticed any changes in listerers or habits since COVID?
+### Have You Noticed Any Changes In Listerers Or Habits Since COVID?
 
-- Mike: yes, absolutely.  First month when COVID hit, podcast listening was down
+- Michael: yes, absolutely.  First month when COVID hit, podcast listening was down
   20%.  I think it's starting to come back.
 - Brian: my own listening habits, when COVID hit I stopped listening to
   podcasts, that's changed.  Now more selective, and do at different times
-  (going to gorcery store or yardwork).  About 20% drop for my podcast as well,
-  gradually re-climbing.  Also seen differences in lenght,I'm trying to do
+  (going to grocery store or yardwork).  About 20% drop for my podcast as well,
+  gradually re-climbing.  Also seen differences in length, I'm trying to do
   shorter episodes, hour is too long.
 
-### How much do you prep your guests?
+### How Much Do You Prep Your Guests?
 
-- Brian: it varies.  I've been doing more, givine a person an outline, for some people that helps them relax.
-- Mike: I come up with a doc & share with the guests, ask could you feel like what would be interesting at these points.
+- Brian: it varies.  I've been doing more, giving a person an outline, for some
+  people that helps them relax.
+- Michael: I come up with a doc & share with the guests, ask could you feel like
+  what would be interesting at these points.
 - host: do you find you have to reel yourself in?
-- Mike: not really but sometimes people are nervous, so sometimes I chat for a bit for recording.
-- Brian: yeah same, will chat for a bit then say "okay we're going to start now".
+- Michael: not really but sometimes people are nervous, so sometimes I chat for
+  a bit for recording.
+- Brian: yeah same, will chat for a bit then say "okay we're going to start
+  now".
 
-### What is your weird podcasting tip?
+### What Is Your Weird Podcasting Tip?
 
-- Mike: 1 the mic should be very close.  2 (non obvious) rigid chair, not a
+- Michael: 1 the mic should be very close.  2 (non obvious) rigid chair, not a
   fancy, adjustable, squeaky chair.
 - Brian: 1 tip I want to give is mic placement.  Should be placed facing your
   mouth but moth should not be facing the mic (30 degree off-axis).
 
-### How Do you Do Podcast Analytics when there are so many platforms?
+### How Do You Do Podcast Analytics When There Are So Many Platforms?
 
-- Mike: all stuff comes back to our server (except Google), so we can track pretty carefully.
-- Brian: Fireside does all the metrics for me & breaks out different providers, etc.
+- Michael: all stuff comes back to our server (except Google), so we can track
+  pretty carefully.
+- Brian: Fireside does all the metrics for me & breaks out different providers,
+  etc.
 
-### What Podcast App DO you reocmmend for listening?
+### What Podcast App Do You Recommend For Listening?
 
-- Brian: the orange one
-- Mike: Overcast.
+- Brian: the orange one on iOS
+- Michael: That's Overcast.  I'm not sure of ones for Android.
+- Host: Podcast Addict on Android is phenomenal.
 
 ---
 
@@ -594,7 +610,6 @@ Nina & Seb.
 ![Feedback](pictures/feedback.png)
 
 ![Feedback 2](pictures/feedback2.png)
-
 
 ---
 
