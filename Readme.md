@@ -589,6 +589,13 @@ Brian Okken & Mike Kennedy
 
 Nina & Seb.
 
+![Group photo](pictures/groupphoto.png)
+
+![Feedback](pictures/feedback.png)
+
+![Feedback 2](pictures/feedback2.png)
+
+
 ---
 
 ## Misc Links
